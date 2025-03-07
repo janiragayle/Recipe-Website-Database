@@ -24,7 +24,7 @@ This project follows an **Entity-Relationship (ER) model**, organizing data into
 
 
 ### 🔍 ER Diagram  
-![ER Diagram](er-diagrams/ER-Diagram.png)  
+![ER Diagram](er-diagrams/ER-Diagram.jpg)  
 
 ---
 
